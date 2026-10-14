@@ -2,11 +2,14 @@
 
 ## About
 
-I like coding. I build Discord and Telegram bots and streaming applications. Based in London, UK.
+A 21 year old software developer & web engineer. 
+
+https://img.shields.io/badge/Thank%20you%20for%20the%20stars-yellow
 
 ## Languages
 
 <p>
+  <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=F7DF1E" alt="Rust"/>
   <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
@@ -18,8 +21,8 @@ I like coding. I build Discord and Telegram bots and streaming applications. Bas
 
 | Project | Description |
 | --- | --- |
-| [star](https://github.com/55-x/star) | A free-to-use service for streaming movies and series. |
-| [fish](https://github.com/55-x/fish) | A multipurpose Discord and Telegram bot, combined. |
+| [star](https://github.com/55-x/star) | An open-source project which allows you to watch movies and series from anywhere. |
+| [fish](https://github.com/55-x/fish) | A multi-purpose discord bot |
 
 ## Contact
 
